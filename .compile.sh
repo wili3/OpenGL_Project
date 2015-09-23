@@ -1,0 +1,1 @@
+cd source && g++ main.cpp -o oglprogram -lglew -lglfw3 -framework cocoa -framework opengl -framework iokit -framework corevideo
